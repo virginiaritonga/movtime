@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Movtime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Movtime App is an website application to search for movies and add them to your watchlist or watched movies. This application use [themoviedb](https://www.themoviedb.org/documentation/api) and [Advice Slip](https://api.adviceslip.com/) as an external API.
+
+
 
 ## Available Scripts
 
